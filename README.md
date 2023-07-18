@@ -29,7 +29,13 @@ In this tutorial, I will outline the post-install configuration of the open-sour
 
 <h2>Installation Steps</h2>
 
-In Step 1: We create a Resource Group inside Azure.
+In Step 1, We Configure Roles
+Admin Panel -> Agents -> Roles
+Supreme Admin
+</p>
+</p>
+<br />
+
 
 <p>
 <img src="https://i.imgur.com/NLmkO3I.png" height="80%"
