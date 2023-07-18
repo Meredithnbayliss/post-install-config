@@ -36,7 +36,10 @@ Supreme Admin
 <img src="https://i.imgur.com/NLmkO3I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In step 2, we create a Windows 10 Virtual Machine (VM) with 2-4 virtual CPU's inside Azure. We will also allow the Virtual Machine to create a new virtual network (Vnet). We will then create a username and password of our choice. This username and password will be used for the Remote Desktop function we are using to access the virtual machine we just created. 
+In step 2, We Configure Departments
+Admin Panel -> Agents -> Departments
+System Administrators
+
 </p>
 <br />
 
@@ -44,7 +47,71 @@ In step 2, we create a Windows 10 Virtual Machine (VM) with 2-4 virtual CPU's in
 <img src="https://i.imgur.com/zUJXPhs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In step 3, we open the Remote Desktop Connection app on our computer. A remote desktop is an internet-enabled program or operating system feature that lets someone access a computer from a different location, just as if they were interacting with the device locally. We will be using this to connect to the Virtual Machine we created in Azure. 
+In step 3, Configure Teams
+Admin Panel -> Agents -> Teams
+Level I Support
+Level II Support
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/gjCqlbo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+In step 4, we Allow anyone to create tickets
+Admin Panel -> Settings -> User Settings
+Registration Required: Require registration and login to create tickets 
+
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/zUJXPhs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In step 5, Configure Agents (workers)
+Admin Panel -> Agents -> Add New
+Jane
+John
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/gjCqlbo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+In step 6, Configure Users (customers)
+Agent Panel -> Users -> Add New
+Karen
+Ken
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/gjCqlbo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+In step 7, we Configure SLA
+Admin Panel -> Manage -> SLA
+Sev-A (1 hour, 24/7)
+Sev-B (4 hours, 24/7)
+Sev-C (8 hours, business hours)
+
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/zUJXPhs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In step 8, Configure Help Topics
+Admin Panel -> Manage -> Help Topics
+Business Critical Outage
+Personal Computer Issues
+Equipment Request
+Password Reset
+
 </p>
 <br />
 
