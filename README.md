@@ -159,14 +159,6 @@ Sev-C (8 hours, business hours)
 <br />
 </p>
 <br />
-
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/zUJXPhs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 In step 8, Configure Help Topics
 Admin Panel -> Manage -> Help Topics
@@ -174,10 +166,29 @@ Business Critical Outage
 Personal Computer Issues
 Equipment Request
 Password Reset
-
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/uJYayfR.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/OQq9S8Z.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/UyniAOr.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/RkVavBd.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/oclAG4r.png" alt="Disk Sanitization Steps"/>
+</p>
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/gjCqlbo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
