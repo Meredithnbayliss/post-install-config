@@ -84,15 +84,15 @@ Level II Support
 In step 4, we Allow anyone to create tickets
 Admin Panel -> Settings -> User Settings
 Registration Required: Require registration and login to create tickets 
-
-
 </p>
 <br />
-
 <p>
-<img src="https://i.imgur.com/zUJXPhs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QZ6X84O.png" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+<br />
+</p>
+<br />
+<p
 In step 5, Configure Agents (workers)
 Admin Panel -> Agents -> Add New
 Jane
