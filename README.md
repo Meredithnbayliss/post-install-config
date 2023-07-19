@@ -109,10 +109,8 @@ John
 <br />
 <p>
 <img src="https://i.imgur.com/opw5AO3.png" alt="Disk Sanitization Steps"/>
-
 </p>
 <br />
-
 <p>
 <img src="https://i.imgur.com/gjCqlbo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -120,10 +118,22 @@ In step 6, Configure Users (customers)
 Agent Panel -> Users -> Add New
 Karen
 Ken
-
 </p>
 <br />
-
+<p>
+<img src="https://i.imgur.com/54jQnge.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/Z6aHr5S.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/MIt60zg.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+</p>
+<br />
 <p>
 <img src="https://i.imgur.com/gjCqlbo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
