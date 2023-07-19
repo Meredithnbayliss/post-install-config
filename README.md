@@ -33,8 +33,24 @@ In Step 1, We Configure Roles
 Admin Panel -> Agents -> Roles
 Supreme Admin
 <p>
-<img src="https://i.imgur.com/NLmkO3I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3ZEUcGh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+<p>
+<img src="https://i.imgur.com/Nkq3oos.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/UvNHJ4w.png" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/z2SvrTb.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<img src="https://i.imgur.com/1SlaERm.png" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 <p>
 In step 2, We Configure Departments
 Admin Panel -> Agents -> Departments
