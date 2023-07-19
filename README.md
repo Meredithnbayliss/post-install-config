@@ -112,8 +112,6 @@ John
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/gjCqlbo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 In step 6, Configure Users (customers)
 Agent Panel -> Users -> Add New
 Karen
@@ -134,14 +132,33 @@ Ken
 <br />
 </p>
 <br />
-<p>
-<img src="https://i.imgur.com/gjCqlbo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 In step 7, we Configure SLA
 Admin Panel -> Manage -> SLA
 Sev-A (1 hour, 24/7)
 Sev-B (4 hours, 24/7)
 Sev-C (8 hours, business hours)
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/zYUBwaU.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/OozxYVw.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/cnWSIBa.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/gOLXXNF.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
+</p>
+<br />
 
 
 </p>
