@@ -55,13 +55,16 @@ Supreme Admin
 In step 2, We Configure Departments
 Admin Panel -> Agents -> Departments
 System Administrators
-
 </p>
 <br />
-
 <p>
-<img src="https://i.imgur.com/zUJXPhs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/icDXd6g.png" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+<p>
+<img src="https://i.imgur.com/aum58CH.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 <p>
 In step 3, Configure Teams
 Admin Panel -> Agents -> Teams
