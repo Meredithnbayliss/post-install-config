@@ -72,10 +72,15 @@ Level I Support
 Level II Support
 </p>
 <br />
-
 <p>
-<img src="https://i.imgur.com/gjCqlbo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8vQw1z6.png" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+<p>
+<img src="https://i.imgur.com/zhdzEmZ.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
 In step 4, we Allow anyone to create tickets
 Admin Panel -> Settings -> User Settings
 Registration Required: Require registration and login to create tickets 
