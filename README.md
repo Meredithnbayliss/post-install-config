@@ -97,6 +97,18 @@ In step 5, Configure Agents (workers)
 Admin Panel -> Agents -> Add New
 Jane
 John
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/xryRKQc.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/ZFMXGVG.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/opw5AO3.png" alt="Disk Sanitization Steps"/>
 
 </p>
 <br />
